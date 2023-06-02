@@ -1,0 +1,11 @@
+mat-form-field,
+textarea {
+  width: 100%;
+}
+mat-card {
+  margin-top: 1rem;
+}
+button {
+  width: fit-content;
+  align-self: flex-start;
+}
